@@ -89,5 +89,26 @@ h2 {
     padding: 15px;
     border-radius: 30px;
     border-color: #3882F6;
-    border-width: 3px;
+    border-width: 5px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+h3 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    padding: 0px 100px;
+}
+
+.quote p {
+    font-weight: bold;
+    float: right;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 100px;
 }
